@@ -1,2 +1,2 @@
-# Java-Programming-1
+# Java-Programming-I
 Assignment for Technology of Programming I
